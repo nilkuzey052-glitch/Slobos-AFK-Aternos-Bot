@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "X0sbetterSMP.aternos.me",
-    "port": 27586,
+    "port": 21500,
     "version": "1.20.1",
     "try-creative": false
   },
